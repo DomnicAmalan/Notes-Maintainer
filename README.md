@@ -1,10 +1,11 @@
-# Notes-Maintainer #
+# Notes-Maintainer
 
-## Description ##
-Maintain Build notes for anything
+## Description
 
+Maintain Build notes
+Share build notes anywhere
 
-# To Install & Run
+## To Install & Run
 
 1. Clone this repo
 2. npm i
