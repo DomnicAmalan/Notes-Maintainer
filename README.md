@@ -14,6 +14,5 @@ Efficient Text editor
 
 The Project runs in http://localhost:8080
 
-#### Note: ####
-#### To Update Readme use below link #### 
+#### Note: #### To Update Readme use below link #### 
 https://github.com/tchapi/markdown-cheatsheet
