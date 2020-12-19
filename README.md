@@ -13,3 +13,6 @@ Efficient Text editor
 3. npm run dev
 
 The Project runs in http://localhost:8080
+
+#### Note: To Update Readme use below link #### 
+https://github.com/tchapi/markdown-cheatsheet
