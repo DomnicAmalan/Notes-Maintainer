@@ -4,6 +4,7 @@
 
 Maintain Build notes
 Share build notes anywhere
+Efficient Text editor
 
 ## To Install & Run
 
